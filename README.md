@@ -3,5 +3,5 @@
 Projects using react and typescript
 
 ```
-npx create-react-app project-name --template typecript
+npx create-react-app project-name --template typescript
 ```
